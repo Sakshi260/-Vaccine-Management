@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1668347401 source:c:\users\zgite\onedrive\desktop\practicals\vaccine_management_cpp_fileh.cpp\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<cstdlib>
+	<string>
+	<unistd.h>
+
+1668594819 source:c:\users\khushi vishwakarma\desktop\vaccine_management_cpp_fileh.cpp\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<iomanip>
+	<cstdlib>
+	<string>
+	<unistd.h>
+
